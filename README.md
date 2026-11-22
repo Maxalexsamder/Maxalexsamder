@@ -1,16 +1,31 @@
-## Hi there 👋
+# [Samuel Rodríguez]
 
-<!--
-**Maxalexsamder/Maxalexsamder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Informática**
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub. Este espacio funciona como un archivo personal y académico donde documento mis prácticas, ejercicios y proyectos de desarrollo de software. Mi enfoque principal está en la programación general, el diseño de algoritmos y la resolución estructurada de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Lenguajes y tecnologías
+
+Lenguajes con los que trabajo habitualmente, ordenados según mi nivel de experiencia y frecuencia de uso:
+
+* **Uso principal:** Python, C#
+* **Base y programación estructurada:** C, C++
+* **Exploración actual:** Julia (aplicado a redes neuronales)
+* **Control de versiones:** Git y GitHub
+
+---
+
+### Proyectos
+
+* **Perceptrón Simple en Julia** *(En desarrollo)* — Implementación básica de un modelo de neurona artificial para clasificación lineal, desarrollado en Julia.
+* *(Espacio reservado para próximos proyectos académicos o prácticas destacadas)*
+
+---
+
+### Contacto
+
+Si deseas consultar algún repositorio o ponerte en contacto conmigo:
+
+* **Correo electrónico:** theprocrastinatorultimate@gmail.com
