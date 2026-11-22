@@ -1,4 +1,4 @@
-# [Samuel Rodríguez]
+# Samuel Rodríguez
 
 **Estudiante de Informática**
 
